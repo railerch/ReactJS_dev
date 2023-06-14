@@ -1,0 +1,19 @@
+.myBtn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: fit-content;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    color: gray;
+    cursor: pointer;
+    transform: rotateY(0deg);
+    transition: transform 1s;
+}
+
+.myBtn:hover {
+    box-shadow: 2px 2px 3px #00000060;
+    transform: rotateY(360deg)
+}

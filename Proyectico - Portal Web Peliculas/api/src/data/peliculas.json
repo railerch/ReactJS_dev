@@ -1,0 +1,42 @@
+[
+    {
+        "id": "0",
+        "nombre": "Caballeros del Zodiaco SS",
+        "fecha": "2023",
+        "sinopsis": "Seiya (Mackenyu), un testarudo adolescente callejero, se pasa el tiempo luchando por dinero mientras busca a su hermana secuestrada. Cuando en una de sus peleas se le revelan poderes místicos que desconocía, Seiya se ve inmerso en un mundo de santos en guerra, antiguos entrenamientos mágicos y una diosa reencarnada que necesita su protección.",
+        "poster": "/posters/Caballeros_del_Zodiaco_-_Saint_Seiya.jpg",
+        "trailer": "/trailers/Caballeros_del_Zodiaco_-_Saint_Seiya.mp4"
+    },
+    {
+        "id": "1",
+        "nombre": "Dracula - Mar de sangre",
+        "fecha": "2023",
+        "sinopsis": "Drácula: Mar de Sangre, está basada en el séptimo capítulo, The Captain’s Log, de la novela de Stoker donde se cuenta la historia del barco Demeter, así que aquí podremos ver una parte de esta clásica historia que no ha sido explorada antes con tanto detalle en el cine.",
+        "poster": "/posters/Dracula_-_Mar_de_sangre.jpg",
+        "trailer": "/trailers/Dracula_-_Mar_de_sangre.mp4"
+    },
+    {
+        "id": "2",
+        "nombre": "Rapidos y Furiosos X",
+        "fecha": "2023",
+        "sinopsis": "Dom Toretto y su familia son el objetivo del vengativo hijo del narcotraficante Hernán Reyes",
+        "poster": "/posters/Rapidos_y_Furiosos_X.jpg",
+        "trailer": "/trailers/Rapidos_y_Furiosos_X.mp4"
+    },
+    {
+        "id": "3",
+        "nombre": "Super Mario Bros",
+        "fecha": "2023",
+        "sinopsis": "Mientras trabajan bajo tierra para reparar una tubería, los plomeros de Brooklyn Mario y su hermano Luigi son transportados por una tubería misteriosa y vagan por un mundo nuevo y mágico. Pero después de separarse, Mario se embarcará en una épica aventura para encontrar a Luigi.",
+        "poster": "/posters/Super_MArio_Bros_la_Pelicula.jpg",
+        "trailer": "/trailers/Super_Mario_Bros_la_Pelicula.mp4"
+    },
+    {
+        "id": "4",
+        "nombre": "The Flash",
+        "fecha": "2023",
+        "sinopsis": "Los mundos chocan en 'Flash' cuando Barry utiliza sus superpoderes para viajar en el tiempo y cambiar los acontecimientos del pasado. Barry intenta salvar a su familia, pero sin saberlo altera el futuro y queda atrapado en una realidad en la que el general Zod ha regresado y amenaza con la aniquilación, pero en la que no hay Superhéroes a los que recurrir.",
+        "poster": "/posters/The_Flash.jpg",
+        "trailer": "/trailers/The_Flash.mp4"
+    }
+]

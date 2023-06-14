@@ -1,0 +1,27 @@
+body {
+    background-color: #222;
+    color: #ffffff;
+}
+
+.container {
+    padding: 20px;
+    background-color: #111;
+}
+
+.fullHeiight {
+    min-height: 100vh;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.tarjeta {
+    transition: transform 1s;
+}
+
+.tarjeta:hover {
+    box-shadow: 0 0 15px #000000;
+    transform: scale(1.07, 1.07);
+    z-index: 999;
+}

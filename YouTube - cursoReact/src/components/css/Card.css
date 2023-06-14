@@ -1,0 +1,27 @@
+.card-container {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 10px;
+    transition: transform 1s;
+}
+
+.card-container:hover {
+    transform: translateX(10px);
+}
+
+.card-text {
+    width: 80%;
+    color: #fff;
+}
+
+.card-img {
+    width: 200px
+}
+
+.card-img img {
+    width: 100%;
+}
